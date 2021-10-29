@@ -20,5 +20,4 @@ npm i sequelize
 Change your .env.example file to .env and replace the values with your mysql username and password. 
 
 ## Demonstration
-
-## Notes
+Check out the walkthrough video [here](https://watch.screencastify.com/v/Y49SdcM1vbZHODkmEB9o)!
